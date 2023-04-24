@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(87, 228, 228);
+}
+h1{
+    color:rgb(72, 12, 151);
+}
+h2{
+    color:rgb(211, 87, 15);
+}
+a{
+    color:rgb(131, 7, 83);
+}
+a:hover{
+    color: azure;
+}
+img{
+    width: 70vh;
+    margin-left: 50px;
+}
+ul{
+    list-style-type: square;
+}
+.tab{
+    text-indent: 35px; 
+}
